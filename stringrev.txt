@@ -5,6 +5,6 @@ public static void main(String [] args){
  Stirng rev = "Hello world"
  // use string buffer
  
-
+// this is from merge1
 }
 }
